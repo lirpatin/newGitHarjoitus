@@ -1,0 +1,2 @@
+# newGitHarjoitus
+vain harjoitus
